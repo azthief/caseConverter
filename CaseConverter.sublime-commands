@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "CaseConverter: _[A-Z] -> [a-z]"
+		"command": "converter1"
+	}
+]
