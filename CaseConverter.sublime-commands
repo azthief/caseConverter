@@ -1,6 +1,7 @@
 [
 	{
-		"caption": "CaseConverter: _[A-Z] -> [a-z]"
+		"id": "CaseConverter",
+		"caption": "CaseConverter: _[A-Z] -> [a-z]",
 		"command": "converter1"
 	}
 ]
